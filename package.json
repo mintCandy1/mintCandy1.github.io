@@ -1,8 +1,8 @@
 {
   "name": "blog",
   "version": "1.0.0",
-  "description": "my blog",
-  "main": "index.js",
+  "description": "mint candy's blog",
+
   "scripts": {
     "docs:dev": "vuepress dev docs --clean-cache",
     "docs:build": "vuepress build docs --clean-cache"

@@ -13,7 +13,7 @@ headerMask: rgba(40, 57, 101, .4)  # 封面图遮罩（可选）
 #giscus: false  # 启用/禁用当前页的 Giscus 评论（可选，默认：true）
 #hide: true  # 是否在首页和标签页博客列表中隐藏这篇博客（可选，默认：false）
 tags:  # 博客标签（可选）
-  - 摸鱼
+  - test
 ---
 今天是2024年7月21日,薄荷糖利用VuePress搭建了自己的站点
 
