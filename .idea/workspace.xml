@@ -4,176 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d0bef30-5eb8-4864-97c3-6f000e571caa" name="更改" comment="初试化">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/client.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/config/gungnirThemeConfig.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/config/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/config/navbar/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/config/pageInfo.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/config/sidebar/autoSidebar.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/plugins/autoSidebar.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/plugins/page.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/about-avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/cates/30soc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/cates/Algorithm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/cates/Algorithm1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/cates/DataStructure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/cates/ahook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/cates/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/cates/books-hbs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/cates/css.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/cates/html.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/cates/js.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/cates/me.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/cates/network.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/cates/pinia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/cates/qzgkk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/cates/react.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/cates/tinify.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/cates/ts.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/cates/vue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/cates/vuepress.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/cates/xdjsjc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/docs/gungnir.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/docs/hitokoto-bubble.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/docs/link-card-without-site-domain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/docs/preview-image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/docs/preview-text.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/home-bg/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/home-bg/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/home-bg/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/in-post/2021-12-24/header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/in-post/2021-12-25/header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/in-post/2024-07-21/header.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/in-post/2024-07-22/header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/links/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/links/acm.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/links/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/links/bilibili.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/links/convertio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/links/cube.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/links/fishmail.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/links/flint.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/links/game.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/links/gungnir.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/links/icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/links/ilovepdf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/links/leetcode.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/links/me.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/links/me.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/links/meta.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/links/ohcv.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/links/portfolio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/links/resume.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/links/torchmasked.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/links/torchop.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/links/wordle.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/links/zelda.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/logo/android-chrome-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/logo/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/logo/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/logo/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/logo/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/logo/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/logo/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/pages/001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/pages/002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/pages/003.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/pages/004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/pages/about.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/pages/links.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/pages/tags.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/manifest.webmanifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/styles/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/styles/palette.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/temp/getDocument.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/components/ArticleHeader.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/components/ArticleList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/components/BooksWrapper.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/components/Catalog.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/components/CatalogList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/components/CateSidebar.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/components/CategoryList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/components/CatesWrapper.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/components/Common.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/components/Home.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/components/HomeContent.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/components/PageHeader.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/components/PageM.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/components/TagList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/components/TagPostList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/components/global/Badge.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/components/global/CodeGroup.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/components/global/CodeGroupItem.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/components/global/LinkCard.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/components/global/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/composables/a.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/composables/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/composables/useBlog.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/composables/useCatalog.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/composables/useDarkMode.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/composables/useDynamicStyles.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/composables/useNavLink.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/composables/useResolveRouteWithRedirect.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/composables/useScrollPromise.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/composables/useSidebarItems.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/composables/useTags.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/composables/useThemeData.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/layouts/404.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/layouts/About.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/layouts/Book.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/layouts/Categories.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/layouts/HomePage.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/layouts/Layout.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/layouts/Links.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/layouts/Notes.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/layouts/Post.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/layouts/Tags.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/layouts/Timeline.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/shared/blog.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/shared/i18n.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/shared/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/shared/nav.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/shared/options.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/shared/page.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/shared/personal.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/shared/plugins.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/styles/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/styles/books_wrapper.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/styles/cates_wrapper.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/utils/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/utils/isActiveSidebarItem.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/utils/listFilterByYear.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/utils/resolveBlogs.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/utils/resolveColor.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/utils/resolveEditLink.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/utils/resolveRepoType.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/utils/resolveTime.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/utils/cateColors.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/utils/requestWeather.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/utils/timelineType.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/about/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/links/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/notes/EnglishWriting/CET6/01.cet6.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/notes/EnglishWriting/EssayTemplate/00.temple.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/notes/EnglishWriting/EssayTemplate/01.原因分析型.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/notes/EnglishWriting/EssayTemplate/02.观点对照型.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/notes/EnglishWriting/Translate/01.Translate_Skills.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/posts/2024-07-21-hello-world.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4d0bef30-5eb8-4864-97c3-6f000e571caa" name="更改" comment="增加notes模块，增加评论" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -290,7 +121,7 @@
       <workItem from="1722601010262" duration="1890000" />
       <workItem from="1722762448600" duration="520000" />
       <workItem from="1722764301171" duration="34000" />
-      <workItem from="1722764341108" duration="174000" />
+      <workItem from="1722764341108" duration="565000" />
     </task>
     <task id="LOCAL-00001" summary="初试化">
       <option name="closed" value="true" />
@@ -300,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722764370549</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="增加notes模块，增加评论">
+      <option name="closed" value="true" />
+      <created>1722764621363</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722764621363</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,7 +151,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="增加笔记模块，增加评论功能" />
     <MESSAGE value="初试化" />
-    <option name="LAST_COMMIT_MESSAGE" value="初试化" />
+    <MESSAGE value="增加notes模块，增加评论" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加notes模块，增加评论" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
