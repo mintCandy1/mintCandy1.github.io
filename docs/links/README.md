@@ -2,83 +2,82 @@
 layout: Links
 title: Links
 links:
+  - title: About Me
+    items:
+      - sitename: ME!
+        url: https://github.com/mintcandy1
+        img: /img/avatar.jpg
+        desc: GitHub
+        
   - title: 后端
     items:
       - sitename: cs自学指南
         url: https://csdiy.wiki/
         img: /img/links/flint.svg
         desc: cs自学指南
-#      - sitename: torchop
-#        url: https://github.com/Renovamen/torchop
-#        img: /img/links/torchop.svg
-#        desc: 一些注意力/卷积算子
-#      - sitename: torchmasked
-#        url: https://github.com/Renovamen/torchmasked
-#        img: /img/links/torchmasked.svg
-#        desc: 带 mask 的张量操作
-#      - sitename: Metallic
-#        url: https://github.com/Renovamen/metallic
-#        img: /img/links/meta.svg
-#        desc: 准元学习工具包
-#      - sitename: Oh, Vue Icons!
-#        url: https://oh-vue-icons.js.org
-#        img: /img/links/icon.svg
-#        desc: Vue 图标组件
       - sitename: Java 全栈知识体系
         url: https://pdai.tech/
         img: /img/links/1.png
         desc: Java 全栈知识体系
-#      - sitename: Oh, CV!
-#        url: https://ohcv.zxh.io
-#        img: /img/links/ohcv.svg
-#        desc: 用 Markdown 写简历
-#      - sitename: Wordle Helper
-#        url: https://wordle.zxh.io
-#        img: /img/links/wordle.jpg
-#        desc: Wordle 作弊小工具
+        
   - title: 前端
     items:
-      - sitename: mdn web docs
+      - sitename: MDN
         url: https://developer.mozilla.org/zh-CN/docs/Learn
-        img: /img/links/me.svg
-        desc: 前端基础文档
-#      - sitename: Portfolio-macOS
-#        url: https://portfolio.zxh.io/
-#        img: /img/links/portfolio.png
-#        desc: 仿 masOS 的个人主页
-#      - sitename: OI & ACM
-#        url: https://oi.zxh.io
-#        img: /img/links/acm.svg
-#        desc: 退役蒟蒻的人生回顾
-#      - sitename: Leetcode
-#        url: https://leetcode.zxh.io
-#        img: /img/links/leetcode.svg
-#        desc: 失学失业少年的忧虑
-#      - sitename: Midgard
-#        url: https://resume.zxh.io
-#        img: /img/links/resume.svg
-#        desc: 来找简历吗勇士！
-#      - sitename: Fishmail
-#        url: https://fishmail.vercel.app
-#        img: /img/links/fishmail.svg
-#        desc: 上班摸鱼！
-#      - sitename: 荒野之息
-#        url: https://zelda.zxh.io
-#        img: /img/links/zelda.jpg
-#        desc: 仿 Ori 的荒野之息主页
-#      - sitename: 小游戏合集
-#        url: https://galaxy.zxh.io
-#        img: /img/links/game.svg
-#        desc: 虽然其实也就俩游戏
-#      - sitename: Cube
-#        url: https://cube.zxh.io
-#        img: /img/links/cube.svg
-#        desc: 玩魔方吗朋友
-
-  - title: 生活娱乐
+        img: https://avatars.githubusercontent.com/u/7565578?s=200&v=4
+        desc: mozilla
+      - sitename: 现代JS教程
+        url: https://zh.javascript.info/
+        img: /img/cates/xdjsjc.png
+        desc: The Best!
+      - sitename: 全栈公开课
+        url: https://fullstackopen.com/zh/
+        img: /img/cates/qzgkk.png
+        desc: 深入浅出现代Web编程
+      - sitename: Vue
+        url: https://cn.vuejs.org/
+        img: /img/cates/vue.png
+        desc: 新晋顶流，啥都有
+      - sitename: Vue Router
+        url: https://router.vuejs.org/zh/
+        img: /img/cates/vue.png
+        desc: aba aba
+      - sitename: Pinia
+        url: https://pinia.vuejs.org/zh/
+        img: /img/cates/pinia.png
+        desc: vuex5，大菠萝
+      - sitename: VuePress
+        url: https://v2.vuepress.vuejs.org/zh/
+        img: /img/cates/vuepress.png
+        desc: Vue-powered Static Site Generator
+      - sitename: React
+        url: https://zh-hans.react.dev/
+        img: /img/cates/react.png
+        desc: 老牌大哥，就是强
+      - sitename: React Router
+        url: https://react-guide.github.io/react-router-cn/index.html
+        img: /img/cates/react.png
+        desc: aba aba
+      - sitename: ahooks
+        url: https://ahooks.js.org/zh-CN/
+        img: /img/cates/ahook.png
+        desc: React Hooks库
+      - sitename: 30secondsofcode
+        url: https://www.30secondsofcode.org/react/hooks/p/1/
+        img: /img/cates/30soc.png
+        desc: Hooks for React18
+  - title: Tools
     items:
-      - sitename: bilibili
-        url: https://www.bilibili.com/
-        img: /img/links/bilibili.png
-        desc: b站
+      - sitename: convertio
+        url: https://convertio.co/zh/
+        img: /img/links/convertio.png
+        desc: 文件转换器，将您的文件转换成任意格式
+      - sitename: ilovepdf
+        url: https://www.ilovepdf.com/zh-cn
+        img: /img/links/ilovepdf.png
+        desc: PDF处理工具，合并、拆分、压缩、转换等
+      - sitename: tinify
+        url: https://tinify.cn/
+        img: /img/cates/tinify.png
+        desc: 图片压缩
 ---

@@ -1,5 +1,6 @@
 import { defineClientConfig } from "@vuepress/client";
 import { addIcons } from "oh-vue-icons";
+import { setupBlogPages, setupDarkMode, setupDynamicStyle, setupSidebarItems, setupTagMap } from "./theme/composables";
 import {
   CoGit,
   FaFortAwesome,
@@ -12,7 +13,9 @@ import {
   RiGithubLine,
   RiSailboatLine,
   RiVuejsLine,
-  FaPaw
+  BiSearch,
+  BiPersonWorkspace,
+  MdInterestsTwotone,
 } from "oh-vue-icons/icons";
 
 addIcons(
@@ -27,7 +30,19 @@ addIcons(
   OiGitCompare,
   OiRocket,
   RiSailboatLine,
-  FaPaw
+  BiSearch,
+  BiPersonWorkspace,
+  MdInterestsTwotone
 );
 
-export default defineClientConfig({});
+import "./styles/index.scss";
+
+export default defineClientConfig({
+  setup() {
+    setupDynamicStyle();
+    setupDarkMode();
+    setupSidebarItems();
+    setupBlogPages();
+    setupTagMap();
+  },
+});

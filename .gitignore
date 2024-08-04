@@ -1,4 +1,7 @@
-node_modules
 .temp
 .cache
-dist
+node_modules/
+docs/.vuepress/dist/
+dist/
+deploy.sh
+.gitattributes
